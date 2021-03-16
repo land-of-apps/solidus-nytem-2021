@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem 'appmap',
   git: 'git@github.com:applandinc/appmap.git',
-  branch: 'hook-code-anywhere-in-gem'
+  branch: 'record-source-location'
 
 group :backend, :frontend, :core, :api do
 

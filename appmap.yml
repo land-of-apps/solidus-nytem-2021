@@ -1,4 +1,4 @@
-name: nytem-2021/solidus
+name: jpmc-2021-03/solidus
 
 packages:
 - path: app/controllers
